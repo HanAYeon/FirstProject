@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ccei\Desktop\3_2_SimpleServiceUsing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea544c204a5fc632b41b0a4c5a03f8b3b1822b91">
+        <dex dex="C:\Users\ccei\Desktop\3_2_SimpleServiceUsing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e75a691b5e7e0837ac801dcec228485d1cf0bb41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ccei\Desktop\3_2_SimpleServiceUsing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59683240b47f3ceb41aa15e186ad96f74a6c72bd">
+        <dex dex="C:\Users\ccei\Desktop\3_2_SimpleServiceUsing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6252e95e7ed72ee5953fc45383953c027e4f7f0\classes.dex" />
+    </item>
+
+</items>
